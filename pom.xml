@@ -7,7 +7,7 @@
 
     <!-- Project Details -->
     <groupId>com.example</groupId>
-    <artifactId>webapp-ext</artifactId>
+    <artifactId>webapp-ex</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <!-- Change jar to war for Web Project -->
